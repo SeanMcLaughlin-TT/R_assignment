@@ -1,0 +1,11 @@
+---
+title: "SeanM_R_Review_Kavi"
+author: "Sean McLaughlin"
+date: "3/22/2021"
+output: html_document
+---
+
+##Nicholas Topping R_Assignment review
+
+#The code seems mostly clean and ran ok giving the expected chromosome files in one piece of code that writes all the files for each chromosome. Your code for plots also looks good. 
+#On thing I would suggest is to put the outputfiles into a results folder and your coding into another to clean up your repository.
